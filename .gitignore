@@ -1,0 +1,7 @@
+*.pth
+*.pt
+*.pkl
+datasets/
+checkpoints/
+outputs/
+*.pdf
